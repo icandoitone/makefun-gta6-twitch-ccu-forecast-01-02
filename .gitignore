@@ -1,0 +1,17 @@
+gta6-twitch-ccu-forecast-01-kit/
+harness-extract/
+kit.tar.gz
+*.in
+*.out
+out_memo/
+out_memo2/
+out_fallback/
+input_fallback/
+practice_actuals.json
+memo_curves.json
+explore_*.py
+loo_*.py
+fetch_practice_actuals.py
+tune_fallback.py
+test_main.py
+__pycache__/
